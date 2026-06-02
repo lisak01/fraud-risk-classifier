@@ -1,0 +1,226 @@
+sentence,label,label_name,label,confidence,description
+Suspicious chargeback request for transaction the customer claims not to have authorized.,0,FRAUD,FRAUD,0.9828,Fraud indicator detected
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Regulatory report submitted with incorrect data; resubmission required within 48 hours.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9809,Operational risk indicator
+Card-not-present fraud detected: 6 online purchases in rapid succession.,0,FRAUD,FRAUD,0.9815,Fraud indicator detected
+Annual fee of 2500 EUR debited from account as per agreed terms.,4,LOW_RISK,LOW_RISK,0.9875,Low risk — normal communication
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Employee accessed 4 customer accounts outside of normal working hours without business reason.,0,FRAUD,FRAUD,0.9827,Fraud indicator detected
+Regulatory report submitted with incorrect data; resubmission required within 48 hours.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9809,Operational risk indicator
+Customer denies initiating a 2500 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9823,Fraud indicator detected
+Account credentials were found in a data breach; customer has not been notified yet.,0,FRAUD,FRAUD,0.983,Fraud indicator detected
+Customer recently added 13 new beneficiaries in high-risk countries simultaneously.,1,AML_RISK,AML_RISK,0.9882,Anti-money laundering risk
+ATM withdrawal of 2500 EUR in home country — no anomalies detected.,4,LOW_RISK,LOW_RISK,0.9848,Low risk — normal communication
+New product launched without completing mandatory risk assessment and sign-off process.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9707,Operational risk indicator
+"Customer deposits 95000 EUR in cash daily, always just below the reporting threshold.",1,AML_RISK,AML_RISK,0.9884,Anti-money laundering risk
+Backup procedure not executed — data recovery for yesterday's transactions not possible.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.986,Operational risk indicator
+SME client unable to service debt after loss of primary contract worth 2500 EUR.,2,CREDIT_RISK,CREDIT_RISK,0.986,Credit risk signal
+Credit facility of 4800 EUR fully drawn with no indication of near-term repayment.,2,CREDIT_RISK,CREDIT_RISK,0.9857,Credit risk signal
+Settlement failure on 8 bond trades due to incorrect IBAN in payment instruction.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.984,Operational risk indicator
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Customer transferred 15000 EUR to own savings account at another bank.,4,LOW_RISK,LOW_RISK,0.9813,Low risk — normal communication
+Funds rapidly moved through 4 accounts before being withdrawn as cash — layering pattern.,1,AML_RISK,AML_RISK,0.9873,Anti-money laundering risk
+Corporate borrower's revenue declined 10% — covenant breach likely in next quarter.,2,CREDIT_RISK,CREDIT_RISK,0.9835,Credit risk signal
+Credit facility of 95000 EUR fully drawn with no indication of near-term repayment.,2,CREDIT_RISK,CREDIT_RISK,0.9857,Credit risk signal
+Credit facility of 4800 EUR fully drawn with no indication of near-term repayment.,2,CREDIT_RISK,CREDIT_RISK,0.9857,Credit risk signal
+Quarterly dividend payment received from investment portfolio.,4,LOW_RISK,LOW_RISK,0.9812,Low risk — normal communication
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Settlement failure on 7 bond trades due to incorrect IBAN in payment instruction.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9843,Operational risk indicator
+Annual fee of 48000 EUR debited from account as per agreed terms.,4,LOW_RISK,LOW_RISK,0.9876,Low risk — normal communication
+Business account receives funds from 15 unrelated third parties with no clear invoices.,1,AML_RISK,AML_RISK,0.9876,Anti-money laundering risk
+New fixed deposit opened for 9500 EUR with 5-month term.,4,LOW_RISK,LOW_RISK,0.9767,Low risk — normal communication
+Customer declared personal insolvency; outstanding loan balance of 4800 EUR at risk.,2,CREDIT_RISK,CREDIT_RISK,0.9861,Credit risk signal
+Change management process not followed for production deployment — rollback initiated.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9829,Operational risk indicator
+Branch staff processed a 15000 EUR transaction without required dual authorization.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9803,Operational risk indicator
+Audit trail missing for 10 transactions processed during system migration window.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9847,Operational risk indicator
+Fraudulent account application submitted with altered identity documents.,0,FRAUD,FRAUD,0.9827,Fraud indicator detected
+Staff member bypassed four-eyes principle for a 15000 EUR payment approval.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9806,Operational risk indicator
+Account credentials were found in a data breach; customer has not been notified yet.,0,FRAUD,FRAUD,0.983,Fraud indicator detected
+System outage caused 6 transactions to be processed twice — manual reversal required.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9829,Operational risk indicator
+Customer declared personal insolvency; outstanding loan balance of 95000 EUR at risk.,2,CREDIT_RISK,CREDIT_RISK,0.9861,Credit risk signal
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Unauthorized wire transfer of 48000 EUR detected from account DE91390501.,0,FRAUD,FRAUD,0.9827,Fraud indicator detected
+Overdraft limit exceeded for 10 consecutive months with no repayment plan agreed.,2,CREDIT_RISK,CREDIT_RISK,0.9854,Credit risk signal
+Customer requested restructuring of 9500 EUR loan due to financial hardship.,2,CREDIT_RISK,CREDIT_RISK,0.9828,Credit risk signal
+Core banking system unavailable for 6 hours during peak trading — SLA breached.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9743,Operational risk indicator
+Round-number transactions of exactly 15000 EUR repeated weekly with no variation.,1,AML_RISK,AML_RISK,0.9852,Anti-money laundering risk
+Customer transferred 15000 EUR to own savings account at another bank.,4,LOW_RISK,LOW_RISK,0.9813,Low risk — normal communication
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Interest payment of 48000 EUR credited to savings account at month end.,4,LOW_RISK,LOW_RISK,0.9868,Low risk — normal communication
+Business account receives funds from 6 unrelated third parties with no clear invoices.,1,AML_RISK,AML_RISK,0.9874,Anti-money laundering risk
+Quarterly dividend payment received from investment portfolio.,4,LOW_RISK,LOW_RISK,0.9812,Low risk — normal communication
+Funds rapidly moved through 10 accounts before being withdrawn as cash — layering pattern.,1,AML_RISK,AML_RISK,0.9875,Anti-money laundering risk
+Quarterly dividend payment received from investment portfolio.,4,LOW_RISK,LOW_RISK,0.9812,Low risk — normal communication
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Transaction pattern inconsistent with stated business activity of the account holder.,1,AML_RISK,AML_RISK,0.9858,Anti-money laundering risk
+Customer requested restructuring of 2500 EUR loan due to financial hardship.,2,CREDIT_RISK,CREDIT_RISK,0.985,Credit risk signal
+Corporate borrower's revenue declined 2% — covenant breach likely in next quarter.,2,CREDIT_RISK,CREDIT_RISK,0.9831,Credit risk signal
+Third-party vendor experienced outage affecting 7 customer-facing services.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9854,Operational risk indicator
+Branch staff processed a 48000 EUR transaction without required dual authorization.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9816,Operational risk indicator
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Audit trail missing for 4 transactions processed during system migration window.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9844,Operational risk indicator
+Series of small transfers to 15 different accounts in high-risk jurisdictions.,1,AML_RISK,AML_RISK,0.9877,Anti-money laundering risk
+Card replacement requested by customer after expiry — standard process completed.,4,LOW_RISK,LOW_RISK,0.961,Low risk — normal communication
+Frequent currency exchange transactions with no documented business justification.,1,AML_RISK,AML_RISK,0.9881,Anti-money laundering risk
+Transaction pattern inconsistent with stated business activity of the account holder.,1,AML_RISK,AML_RISK,0.9858,Anti-money laundering risk
+Routine account statement generated and sent to customer address on file.,4,LOW_RISK,LOW_RISK,0.9836,Low risk — normal communication
+Customer upgraded to premium account following review of relationship value.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Customer data exported to wrong recipient due to email configuration error.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Rising interest rates increased debt service costs beyond borrower's repayment capacity.,2,CREDIT_RISK,CREDIT_RISK,0.9873,Credit risk signal
+Customer data exported to wrong recipient due to email configuration error.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Borrower has missed 11 consecutive mortgage payments and is unreachable.,2,CREDIT_RISK,CREDIT_RISK,0.9806,Credit risk signal
+Branch staff processed a 1200 EUR transaction without required dual authorization.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9806,Operational risk indicator
+Customer requested restructuring of 1200 EUR loan due to financial hardship.,2,CREDIT_RISK,CREDIT_RISK,0.985,Credit risk signal
+Card-not-present fraud detected: 6 online purchases in rapid succession.,0,FRAUD,FRAUD,0.9815,Fraud indicator detected
+Annual fee of 1200 EUR debited from account as per agreed terms.,4,LOW_RISK,LOW_RISK,0.9879,Low risk — normal communication
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+System outage caused 12 transactions to be processed twice — manual reversal required.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9832,Operational risk indicator
+Customer data exported to wrong recipient due to email configuration error.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Early warning indicator: 13 returned direct debits in the past 30 days.,2,CREDIT_RISK,CREDIT_RISK,0.986,Credit risk signal
+Suspicious chargeback request for transaction the customer claims not to have authorized.,0,FRAUD,FRAUD,0.9828,Fraud indicator detected
+Customer received fake invoice from spoofed company email requesting urgent payment.,0,FRAUD,FRAUD,0.9837,Fraud indicator detected
+Customer reported phishing email impersonating the bank requesting login credentials.,0,FRAUD,FRAUD,0.9834,Fraud indicator detected
+Backup procedure not executed — data recovery for yesterday's transactions not possible.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.986,Operational risk indicator
+Core banking system unavailable for 8 hours during peak trading — SLA breached.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9734,Operational risk indicator
+ATM withdrawal of 1200 EUR in home country — no anomalies detected.,4,LOW_RISK,LOW_RISK,0.9845,Low risk — normal communication
+Multiple failed login attempts followed by successful access from an unknown IP address.,0,FRAUD,FRAUD,0.9829,Fraud indicator detected
+Wire transfers to sanctioned country detected; account flagged for immediate review.,1,AML_RISK,AML_RISK,0.9872,Anti-money laundering risk
+Overdraft limit exceeded for 5 consecutive months with no repayment plan agreed.,2,CREDIT_RISK,CREDIT_RISK,0.9855,Credit risk signal
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Rising interest rates increased debt service costs beyond borrower's repayment capacity.,2,CREDIT_RISK,CREDIT_RISK,0.9873,Credit risk signal
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Card-not-present fraud detected: 11 online purchases in rapid succession.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Credit facility of 95000 EUR fully drawn with no indication of near-term repayment.,2,CREDIT_RISK,CREDIT_RISK,0.9857,Credit risk signal
+Card-not-present fraud detected: 11 online purchases in rapid succession.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Audit trail missing for 10 transactions processed during system migration window.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9847,Operational risk indicator
+Incorrect exchange rate applied to 15 FX transactions due to feed failure.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9837,Operational risk indicator
+Non-performing loan provisioning required for account outstanding over 90 days.,2,CREDIT_RISK,CREDIT_RISK,0.9861,Credit risk signal
+Customer denies initiating a 95000 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Debt-to-income ratio exceeds 5% — loan application does not meet credit policy.,2,CREDIT_RISK,CREDIT_RISK,0.9873,Credit risk signal
+New fixed deposit opened for 2500 EUR with 4-month term.,4,LOW_RISK,LOW_RISK,0.9688,Low risk — normal communication
+Duplicate invoices submitted for reimbursement by the same vendor within 48 hours.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Fraudulent account application submitted with altered identity documents.,0,FRAUD,FRAUD,0.9827,Fraud indicator detected
+Debt-to-income ratio exceeds 7% — loan application does not meet credit policy.,2,CREDIT_RISK,CREDIT_RISK,0.9873,Credit risk signal
+Employee accessed 12 customer accounts outside of normal working hours without business reason.,0,FRAUD,FRAUD,0.9825,Fraud indicator detected
+Shell company with no apparent business activity receives large regular wire transfers.,1,AML_RISK,AML_RISK,0.9884,Anti-money laundering risk
+Identity theft suspected: new account opened with stolen documents in branch B-203.,0,FRAUD,FRAUD,0.9832,Fraud indicator detected
+Mortgage payment of 4800 EUR received on schedule — no arrears.,4,LOW_RISK,LOW_RISK,0.9866,Low risk — normal communication
+System outage caused 12 transactions to be processed twice — manual reversal required.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9832,Operational risk indicator
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Customer recently added 9 new beneficiaries in high-risk countries simultaneously.,1,AML_RISK,AML_RISK,0.9882,Anti-money laundering risk
+Funds rapidly moved through 15 accounts before being withdrawn as cash — layering pattern.,1,AML_RISK,AML_RISK,0.9874,Anti-money laundering risk
+Third-party vendor experienced outage affecting 7 customer-facing services.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9854,Operational risk indicator
+Customer structuring deposits to avoid the 500 EUR mandatory reporting threshold.,1,AML_RISK,AML_RISK,0.9872,Anti-money laundering risk
+Overdraft limit exceeded for 10 consecutive months with no repayment plan agreed.,2,CREDIT_RISK,CREDIT_RISK,0.9854,Credit risk signal
+Customer data exported to wrong recipient due to email configuration error.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Customer recently added 3 new beneficiaries in high-risk countries simultaneously.,1,AML_RISK,AML_RISK,0.9882,Anti-money laundering risk
+Employee accessed 6 customer accounts outside of normal working hours without business reason.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Frequent currency exchange transactions with no documented business justification.,1,AML_RISK,AML_RISK,0.9881,Anti-money laundering risk
+Customer denies initiating a 9500 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9825,Fraud indicator detected
+Customer recently added 11 new beneficiaries in high-risk countries simultaneously.,1,AML_RISK,AML_RISK,0.9881,Anti-money laundering risk
+Business account receives funds from 7 unrelated third parties with no clear invoices.,1,AML_RISK,AML_RISK,0.9875,Anti-money laundering risk
+Card replacement requested by customer after expiry — standard process completed.,4,LOW_RISK,LOW_RISK,0.961,Low risk — normal communication
+Credit score dropped from 6 to 446 following multiple missed payments.,2,CREDIT_RISK,CREDIT_RISK,0.9864,Credit risk signal
+Customer denies initiating a 1200 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9825,Fraud indicator detected
+Credit card used in Frankfurt minutes after being used in Hamburg — likely cloned.,0,FRAUD,FRAUD,0.98,Fraud indicator detected
+Staff member bypassed four-eyes principle for a 9500 EUR payment approval.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9806,Operational risk indicator
+Collateral valuation for mortgage fell 5% below outstanding loan balance.,2,CREDIT_RISK,CREDIT_RISK,0.9863,Credit risk signal
+Customer denies initiating a 4800 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Fraudulent account application submitted with altered identity documents.,0,FRAUD,FRAUD,0.9827,Fraud indicator detected
+Annual fee of 1200 EUR debited from account as per agreed terms.,4,LOW_RISK,LOW_RISK,0.9879,Low risk — normal communication
+Customer denies initiating a 15000 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Customer denies initiating a 15000 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Large cash deposits followed by immediate international wire transfers to offshore accounts.,1,AML_RISK,AML_RISK,0.9879,Anti-money laundering risk
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Customer contacted support to update address — identity verification successful.,4,LOW_RISK,LOW_RISK,0.9761,Low risk — normal communication
+Identity theft suspected: new account opened with stolen documents in branch B-042.,0,FRAUD,FRAUD,0.9832,Fraud indicator detected
+Identity theft suspected: new account opened with stolen documents in branch B-089.,0,FRAUD,FRAUD,0.9832,Fraud indicator detected
+Card-not-present fraud detected: 8 online purchases in rapid succession.,0,FRAUD,FRAUD,0.9815,Fraud indicator detected
+SME client unable to service debt after loss of primary contract worth 4800 EUR.,2,CREDIT_RISK,CREDIT_RISK,0.9838,Credit risk signal
+Credit card used in Vienna minutes after being used in Frankfurt — likely cloned.,0,FRAUD,FRAUD,0.9801,Fraud indicator detected
+New fixed deposit opened for 15000 EUR with 5-month term.,4,LOW_RISK,LOW_RISK,0.9772,Low risk — normal communication
+Staff member bypassed four-eyes principle for a 9500 EUR payment approval.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9806,Operational risk indicator
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Unauthorized wire transfer of 15000 EUR detected from account DE23335151.,0,FRAUD,FRAUD,0.9828,Fraud indicator detected
+Monthly salary payment of 4800 EUR received as expected from employer.,4,LOW_RISK,LOW_RISK,0.9865,Low risk — normal communication
+Funds rapidly moved through 15 accounts before being withdrawn as cash — layering pattern.,1,AML_RISK,AML_RISK,0.9874,Anti-money laundering risk
+Core banking system unavailable for 12 hours during peak trading — SLA breached.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9712,Operational risk indicator
+Suspicious chargeback request for transaction the customer claims not to have authorized.,0,FRAUD,FRAUD,0.9828,Fraud indicator detected
+Corporate borrower's revenue declined 6% — covenant breach likely in next quarter.,2,CREDIT_RISK,CREDIT_RISK,0.9834,Credit risk signal
+System outage caused 14 transactions to be processed twice — manual reversal required.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9829,Operational risk indicator
+Transaction pattern inconsistent with stated business activity of the account holder.,1,AML_RISK,AML_RISK,0.9858,Anti-money laundering risk
+Guarantor for corporate loan has also filed for insolvency — collateral now insufficient.,2,CREDIT_RISK,CREDIT_RISK,0.9833,Credit risk signal
+Audit trail missing for 2 transactions processed during system migration window.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9847,Operational risk indicator
+Debt-to-income ratio exceeds 9% — loan application does not meet credit policy.,2,CREDIT_RISK,CREDIT_RISK,0.9873,Credit risk signal
+Customer declared personal insolvency; outstanding loan balance of 15000 EUR at risk.,2,CREDIT_RISK,CREDIT_RISK,0.986,Credit risk signal
+Customer structuring deposits to avoid the 95000 EUR mandatory reporting threshold.,1,AML_RISK,AML_RISK,0.9871,Anti-money laundering risk
+Mortgage payment of 1200 EUR received on schedule — no arrears.,4,LOW_RISK,LOW_RISK,0.9854,Low risk — normal communication
+Staff member bypassed four-eyes principle for a 4800 EUR payment approval.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.981,Operational risk indicator
+Suspicious chargeback request for transaction the customer claims not to have authorized.,0,FRAUD,FRAUD,0.9828,Fraud indicator detected
+Phishing link clicked by corporate user; credentials may have been compromised.,0,FRAUD,FRAUD,0.9835,Fraud indicator detected
+Credit score dropped from 14 to 423 following multiple missed payments.,2,CREDIT_RISK,CREDIT_RISK,0.9866,Credit risk signal
+Customer received fake invoice from spoofed company email requesting urgent payment.,0,FRAUD,FRAUD,0.9837,Fraud indicator detected
+Routine account statement generated and sent to customer address on file.,4,LOW_RISK,LOW_RISK,0.9836,Low risk — normal communication
+Wire transfers to sanctioned country detected; account flagged for immediate review.,1,AML_RISK,AML_RISK,0.9872,Anti-money laundering risk
+SME client unable to service debt after loss of primary contract worth 48000 EUR.,2,CREDIT_RISK,CREDIT_RISK,0.983,Credit risk signal
+Core banking system unavailable for 2 hours during peak trading — SLA breached.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9751,Operational risk indicator
+Customer structuring deposits to avoid the 2500 EUR mandatory reporting threshold.,1,AML_RISK,AML_RISK,0.9872,Anti-money laundering risk
+Duplicate invoices submitted for reimbursement by the same vendor within 48 hours.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Incorrect exchange rate applied to 12 FX transactions due to feed failure.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9835,Operational risk indicator
+"Customer deposits 15000 EUR in cash daily, always just below the reporting threshold.",1,AML_RISK,AML_RISK,0.9884,Anti-money laundering risk
+Transaction pattern inconsistent with stated business activity of the account holder.,1,AML_RISK,AML_RISK,0.9858,Anti-money laundering risk
+Routine account statement generated and sent to customer address on file.,4,LOW_RISK,LOW_RISK,0.9836,Low risk — normal communication
+Customer transferred 9500 EUR to own savings account at another bank.,4,LOW_RISK,LOW_RISK,0.9813,Low risk — normal communication
+Customer's employer entered administration — risk of income loss and loan default.,2,CREDIT_RISK,CREDIT_RISK,0.9866,Credit risk signal
+Customer contacted support to update address — identity verification successful.,4,LOW_RISK,LOW_RISK,0.9761,Low risk — normal communication
+Error in interest calculation affected 4 savings accounts — correction in progress.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9798,Operational risk indicator
+Annual fee of 2500 EUR debited from account as per agreed terms.,4,LOW_RISK,LOW_RISK,0.9875,Low risk — normal communication
+New fixed deposit opened for 1200 EUR with 8-month term.,4,LOW_RISK,LOW_RISK,0.9701,Low risk — normal communication
+"Customer deposits 1200 EUR in cash daily, always just below the reporting threshold.",1,AML_RISK,AML_RISK,0.9881,Anti-money laundering risk
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Overdraft limit exceeded for 9 consecutive months with no repayment plan agreed.,2,CREDIT_RISK,CREDIT_RISK,0.9854,Credit risk signal
+Customer reported phishing email impersonating the bank requesting login credentials.,0,FRAUD,FRAUD,0.9834,Fraud indicator detected
+Customer received fake invoice from spoofed company email requesting urgent payment.,0,FRAUD,FRAUD,0.9837,Fraud indicator detected
+Duplicate invoices submitted for reimbursement by the same vendor within 48 hours.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Business account turnover consistent with prior months — no unusual activity.,4,LOW_RISK,LOW_RISK,0.987,Low risk — normal communication
+Series of small transfers to 8 different accounts in high-risk jurisdictions.,1,AML_RISK,AML_RISK,0.9877,Anti-money laundering risk
+Politically exposed person opened account without disclosure; enhanced due diligence required.,1,AML_RISK,AML_RISK,0.9869,Anti-money laundering risk
+Interest payment of 9500 EUR credited to savings account at month end.,4,LOW_RISK,LOW_RISK,0.987,Low risk — normal communication
+Business account turnover consistent with prior months — no unusual activity.,4,LOW_RISK,LOW_RISK,0.987,Low risk — normal communication
+Unauthorized wire transfer of 95000 EUR detected from account DE48260510.,0,FRAUD,FRAUD,0.9831,Fraud indicator detected
+Sensitive customer data stored in unencrypted format on local workstation.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Card replacement requested by customer after expiry — standard process completed.,4,LOW_RISK,LOW_RISK,0.961,Low risk — normal communication
+Regulatory report submitted with incorrect data; resubmission required within 48 hours.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9809,Operational risk indicator
+Standing order for rent of 9500 EUR processed successfully.,4,LOW_RISK,LOW_RISK,0.9862,Low risk — normal communication
+Customer received fake invoice from spoofed company email requesting urgent payment.,0,FRAUD,FRAUD,0.9837,Fraud indicator detected
+ATM withdrawal of 2500 EUR in home country — no anomalies detected.,4,LOW_RISK,LOW_RISK,0.9848,Low risk — normal communication
+Duplicate invoices submitted for reimbursement by the same vendor within 48 hours.,0,FRAUD,FRAUD,0.9816,Fraud indicator detected
+Corporate borrower's revenue declined 11% — covenant breach likely in next quarter.,2,CREDIT_RISK,CREDIT_RISK,0.9837,Credit risk signal
+New fixed deposit opened for 9500 EUR with 6-month term.,4,LOW_RISK,LOW_RISK,0.9771,Low risk — normal communication
+Customer unable to provide source of funds for 500 EUR deposit.,1,AML_RISK,AML_RISK,0.9875,Anti-money laundering risk
+Sensitive customer data stored in unencrypted format on local workstation.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Large cash deposits followed by immediate international wire transfers to offshore accounts.,1,AML_RISK,AML_RISK,0.9879,Anti-money laundering risk
+Customer denies initiating a 4800 EUR international wire transfer made this morning.,0,FRAUD,FRAUD,0.9826,Fraud indicator detected
+Customer unable to provide source of funds for 9500 EUR deposit.,1,AML_RISK,AML_RISK,0.9876,Anti-money laundering risk
+Shell company with no apparent business activity receives large regular wire transfers.,1,AML_RISK,AML_RISK,0.9884,Anti-money laundering risk
+Customer's employer entered administration — risk of income loss and loan default.,2,CREDIT_RISK,CREDIT_RISK,0.9866,Credit risk signal
+Standing order for rent of 9500 EUR processed successfully.,4,LOW_RISK,LOW_RISK,0.9862,Low risk — normal communication
+Early warning indicator: 3 returned direct debits in the past 30 days.,2,CREDIT_RISK,CREDIT_RISK,0.9862,Credit risk signal
+Audit trail missing for 10 transactions processed during system migration window.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9847,Operational risk indicator
+Change management process not followed for production deployment — rollback initiated.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9829,Operational risk indicator
+Backup procedure not executed — data recovery for yesterday's transactions not possible.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.986,Operational risk indicator
+Interest payment of 1200 EUR credited to savings account at month end.,4,LOW_RISK,LOW_RISK,0.9868,Low risk — normal communication
+Customer data exported to wrong recipient due to email configuration error.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9838,Operational risk indicator
+Early warning indicator: 14 returned direct debits in the past 30 days.,2,CREDIT_RISK,CREDIT_RISK,0.986,Credit risk signal
+Transaction pattern inconsistent with stated business activity of the account holder.,1,AML_RISK,AML_RISK,0.9858,Anti-money laundering risk
+"High-value real estate purchased with cash — no mortgage, no financing documentation.",1,AML_RISK,AML_RISK,0.9879,Anti-money laundering risk
+Credit facility of 95000 EUR fully drawn with no indication of near-term repayment.,2,CREDIT_RISK,CREDIT_RISK,0.9857,Credit risk signal
+Regulatory report submitted with incorrect data; resubmission required within 48 hours.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9809,Operational risk indicator
+Round-number transactions of exactly 1200 EUR repeated weekly with no variation.,1,AML_RISK,AML_RISK,0.987,Anti-money laundering risk
+Standing order for rent of 48000 EUR processed successfully.,4,LOW_RISK,LOW_RISK,0.9858,Low risk — normal communication
+Error in interest calculation affected 12 savings accounts — correction in progress.,3,OPERATIONAL_RISK,OPERATIONAL_RISK,0.9798,Operational risk indicator
+Mortgage payment of 500 EUR received on schedule — no arrears.,4,LOW_RISK,LOW_RISK,0.9853,Low risk — normal communication
+Wire transfers to sanctioned country detected; account flagged for immediate review.,1,AML_RISK,AML_RISK,0.9872,Anti-money laundering risk
+Collateral valuation for mortgage fell 14% below outstanding loan balance.,2,CREDIT_RISK,CREDIT_RISK,0.9862,Credit risk signal
+Customer unable to provide source of funds for 9500 EUR deposit.,1,AML_RISK,AML_RISK,0.9876,Anti-money laundering risk
