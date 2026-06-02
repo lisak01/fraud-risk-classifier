@@ -96,7 +96,7 @@ fraud-risk-classifier/
 
 Terminal:
 
-![python src:evaluate-py.png](python%20src:evaluate-py.png)
+![python src evaluate-py.png](python%20src%20evaluate-py.png)
 
 
 ### 6. Unit Tests
@@ -125,7 +125,7 @@ Assessment: Anti-money laundering risk
 
 Terminal:
 
-![python app:demo-py.png](python%20app:demo-py.png)
+![python app demo-py.png](python%20app%20demo-py.png)
 
 ### 10. MLflow UI
     
