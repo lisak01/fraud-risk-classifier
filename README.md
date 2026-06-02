@@ -94,6 +94,8 @@ fraud-risk-classifier/
     python src/evaluate.py --model_dir models/finbert-fraud-risk
 
 
+Terminal:
+
 ![python src:evaluate-py.png](python%20src:evaluate-py.png)
 
 
@@ -121,6 +123,7 @@ Assessment: Anti-money laundering risk
     
     python app/demo.py
 
+Terminal:
 
 ![python app:demo-py.png](python%20app:demo-py.png)
 
@@ -129,6 +132,8 @@ Assessment: Anti-money laundering risk
     mlflow ui
 
 #### Browser: http://127.0.0.1:5000
+
+
 
 
 mlflow Finbert-ep3 
